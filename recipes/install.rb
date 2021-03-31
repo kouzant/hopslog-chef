@@ -56,7 +56,7 @@ group node['hopslog']['group'] do
 end
 
 
-include_recipe "java"
+# i
 
 #
 # Logstash
